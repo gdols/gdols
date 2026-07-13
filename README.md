@@ -1,15 +1,32 @@
 # Hola, soy Guille
 
-Desarrollador full stack, principalmente con **.NET, Blazor y SQL Server**.
-También trabajo con Azure y actualmente estudio el Grado de Data Science.
+Soy desarrollador full stack. Trabajo principalmente con **.NET, Blazor y SQL Server**,
+también con Azure, y estudio el Grado de Data Science.
 
-Me gusta construir herramientas pequeñas para problemas concretos. Cuando algo me cuesta más de la cuenta, suele acabar convertido en una nota o en un proyecto.
+Aquí dejo proyectos que uso y notas de problemas que me ha tocado resolver.
 
-## Ahora mismo
+## MdPipe
 
-- **[MdPipe](https://github.com/gdols/mdpipe)** Una herramienta para convertir documentos e imágenes a Markdown en Windows y desde la línea de comandos. Nació para poder usar [Microsoft MarkItDown](https://github.com/microsoft/markitdown) sin configurar Python ni sus dependencias: crea su propio entorno aislado y gestiona automáticamente las actualizaciones.
-- **[gdols.dev](https://github.com/gdols/gdols.github.io)** Mi web personal y cuaderno técnico, construido con Astro y sin JavaScript innecesario en el cliente.
-- **[Apiverd](https://github.com/apiverd)** Mi marca y laboratorio para experimentar con aplicaciones Android, servicios API y pequeños productos.
+**[MdPipe](https://github.com/gdols/mdpipe)** es mi proyecto principal. Es una aplicación
+para Windows y una CLI que convierten PDF, Word, Excel, PowerPoint, HTML e imágenes
+a Markdown usando [Microsoft MarkItDown](https://github.com/microsoft/markitdown).
+
+El ejecutable portable no pide instalar Python ni .NET. Prepara su propio entorno
+y mantiene las dependencias separadas del sistema.
+
+[Descargar MdPipe.exe](https://github.com/gdols/mdpipe/releases/latest/download/MdPipe.exe)
+· [Código](https://github.com/gdols/mdpipe)
+· [Cómo está hecho](https://gdols.dev/blog/como-hice-mdpipe/)
+
+## Apiverd
+
+[Apiverd](https://apiverd.com) es mi marca para aplicaciones Android, servicios API
+y pequeños productos.
+
+## gdols.dev
+
+En [gdols.dev](https://gdols.dev) reúno mis proyectos y escribo notas técnicas.
+La web está construida con Astro y sin JavaScript innecesario en el cliente.
 
 ## Contacto
 
