@@ -7,7 +7,7 @@ Me gusta construir herramientas pequeñas para problemas concretos. Cuando algo 
 
 ## Ahora mismo
 
-- **[MdPipe](https://github.com/gdols/mdpipe)** Úuna herramienta para convertir documentos e imágenes a Markdown en Windows y desde la línea de comandos. Nació para poder usar [Microsoft MarkItDown](https://github.com/microsoft/markitdown) sin configurar Python ni sus dependencias: crea su propio entorno aislado y gestiona automáticamente las actualizaciones.
+- **[MdPipe](https://github.com/gdols/mdpipe)** Una herramienta para convertir documentos e imágenes a Markdown en Windows y desde la línea de comandos. Nació para poder usar [Microsoft MarkItDown](https://github.com/microsoft/markitdown) sin configurar Python ni sus dependencias: crea su propio entorno aislado y gestiona automáticamente las actualizaciones.
 - **[gdols.dev](https://github.com/gdols/gdols.github.io)** Mi web personal y cuaderno técnico, construido con Astro y sin JavaScript innecesario en el cliente.
 - **[Apiverd](https://github.com/apiverd)** Mi marca y laboratorio para experimentar con aplicaciones Android, servicios API y pequeños productos.
 
