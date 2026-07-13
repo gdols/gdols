@@ -1,18 +1,14 @@
 # Hola, soy Guille
 
-Soy desarrollador full stack. Trabajo principalmente con **.NET, Blazor y SQL Server**,
-también con Azure, y estudio el Grado de Data Science.
+Soy desarrollador full stack. Trabajo principalmente con **.NET, Blazor y SQL Server**, también con Azure, y estudio el Grado de Data Science.
 
 Aquí dejo proyectos que uso y notas de problemas que me ha tocado resolver.
 
 ## MdPipe
 
-**[MdPipe](https://github.com/gdols/mdpipe)** es mi proyecto principal. Es una aplicación
-para Windows y una CLI que convierten PDF, Word, Excel, PowerPoint, HTML e imágenes
-a Markdown usando [Microsoft MarkItDown](https://github.com/microsoft/markitdown).
+**[MdPipe](https://github.com/gdols/mdpipe)** es mi proyecto principal. Es una aplicación para Windows y una CLI que convierten PDF, Word, Excel, PowerPoint, HTML e imágenes a Markdown usando [Microsoft MarkItDown](https://github.com/microsoft/markitdown).
 
-El ejecutable portable no pide instalar Python ni .NET. Prepara su propio entorno
-y mantiene las dependencias separadas del sistema.
+El ejecutable portable no pide instalar Python ni .NET. Prepara su propio entorno y mantiene las dependencias separadas del sistema.
 
 [Descargar MdPipe.exe](https://github.com/gdols/mdpipe/releases/latest/download/MdPipe.exe)
 · [Código](https://github.com/gdols/mdpipe)
